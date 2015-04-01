@@ -1,0 +1,10 @@
+C:\Projects\AlaaDamiri\TwitterGate.DAL\bin\Debug\TwitterGate.DAL.dll
+C:\Projects\AlaaDamiri\TwitterGate.DAL\bin\Debug\TwitterGate.DAL.pdb
+C:\Projects\AlaaDamiri\TwitterGate.DAL\bin\Debug\LinqToTwitter.dll
+C:\Projects\AlaaDamiri\TwitterGate.DAL\bin\Debug\MongoDB.Bson.dll
+C:\Projects\AlaaDamiri\TwitterGate.DAL\bin\Debug\MongoDB.Driver.dll
+C:\Projects\AlaaDamiri\TwitterGate.DAL\bin\Debug\MongoDB.Bson.xml
+C:\Projects\AlaaDamiri\TwitterGate.DAL\bin\Debug\MongoDB.Driver.xml
+C:\Projects\AlaaDamiri\TwitterGate.DAL\obj\Debug\TwitterGate.DAL.dll
+C:\Projects\AlaaDamiri\TwitterGate.DAL\obj\Debug\TwitterGate.DAL.pdb
+C:\Projects\AlaaDamiri\TwitterGate.DAL\obj\Debug\TwitterGate.DAL.csprojResolveAssemblyReference.cache
